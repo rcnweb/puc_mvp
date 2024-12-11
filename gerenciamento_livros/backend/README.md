@@ -29,7 +29,7 @@ exemplo: <br>
 ## Instalação 
 Clone o repositório com o comando abaixo.
   ```bash 
-   git clone https://github.com/accsj/Flask-API.git
+   git clone https://github.com/rcnweb/puc_mvp/tree/main/gerenciamento_livros/backend
   ```
 
 ## Requisitos
