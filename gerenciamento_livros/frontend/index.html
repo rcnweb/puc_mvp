@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca online</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="sidenav" id="sidenav">
+        <div class="logo-container">
+          <button class="logo" id="toggleCollapseBtn">B</button>
+          <div class="logo-text" id="logoText" style="display: none;">Biblioteca</div>
+          <button class="btn-close" id="closeBtn" style="display: none;">X</button>
+        </div>
+        <div class="sidenav-nav" id="navItems">
+          <!-- Aqui os itens de navegação serão carregados dinamicamente -->
+        </div>
+
+    </div>
+
+    <main id="app">
+        <!-- O conteúdo será carregado dinamicamente aqui -->
+    </main>
+
+    <script src="scripts/token-service.js"></script>
+    <script src="scripts/pages.js"></script>
+    <script src="scripts/router.js"></script>
+    <script src="scripts/sidenav.js"></script>
+    <script src="scripts/pages/login.js"></script>
+    <script src="scripts/pages/cadastro.js"></script>
+    <script src="scripts/pages/favoritos.js"></script>
+    <script src="scripts/pages/livros.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
