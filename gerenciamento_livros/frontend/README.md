@@ -13,7 +13,7 @@
 
 ## Requisitos 
   Estar rodando a api feita com Flask em Python 
-  - [Flask-API](https://github.com/accsj/Flask-API)
+  - [backend](https://github.com/rcnweb/puc_mvp/tree/main/gerenciamento_livros/backend)
 
 # Como rodar a aplicação
   É necessário desabilitar a segurança de cors do seu navegador, irei utilizar o chrome como exemplo.
