@@ -18,13 +18,11 @@ O Flask é um framework web leve e flexível para Python, utilizado para desenvo
   ```bash
     127.0.0.1:5000/swagger
   ```
-![image](https://github.com/user-attachments/assets/a60ef262-83ca-4ba8-9286-d35767c22bb7)
+
 
 
 Para testar as rotas deverá se autenticar inserindo o token de acesso, <br>
-exemplo: <br>
 
-![image](https://github.com/user-attachments/assets/1264feb7-59ca-48f2-8b45-1d35a89bfdc0)
 
 ## Instalação 
 Clone o repositório com o comando abaixo.
