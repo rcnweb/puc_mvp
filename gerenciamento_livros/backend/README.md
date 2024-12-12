@@ -60,4 +60,4 @@ ou
 ```bash
   flask run
 ```
-a aplicação irá iniciar na porta 127.0.0.1:5000
+a aplicação irá iniciar na porta http://127.0.0.1:5000
