@@ -64,15 +64,6 @@ e execute com o comando:
   live-server
 ```
 
-# Login
-![image](https://github.com/user-attachments/assets/2f615cbb-be25-4813-9264-000d2faeb002)
-
-# Cadastro
-![image](https://github.com/user-attachments/assets/dfae8497-1612-4fc7-a276-6ea4000ae635)
-
-# Livros
-![image](https://github.com/user-attachments/assets/82ce975f-2704-4ab6-91e9-166121bc31c5)
-
 # Favoritos
 ![image](https://github.com/user-attachments/assets/229e7650-f3f2-4498-a873-860e64299c3f)
 
