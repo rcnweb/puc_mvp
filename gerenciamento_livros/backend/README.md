@@ -31,7 +31,7 @@ Clone o repositório com o comando abaixo.
   ```
 
 ## Requisitos
-  - É necessario utilizar a versão do 3.13.1 do Python. 
+  - É necessario utilizar a versão do 3.13.1 ou superior do Python. 
   - Crie um ambiente virtual (opcional).
   ```bash 
     python -m venv venv
