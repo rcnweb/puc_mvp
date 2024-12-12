@@ -16,7 +16,7 @@ O Flask é um framework web leve e flexível para Python, utilizado para desenvo
   A api desenvolvida contém de forma funcional todos endpoints (rotas) criadas com o Flask, <br>
   acesse a url padrão
   ```bash
-    127.0.0.1:5000/swagger
+    http://127.0.0.1:5000/swagger
   ```
 
 
